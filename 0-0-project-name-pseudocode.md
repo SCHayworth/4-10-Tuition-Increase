@@ -1,11 +1,16 @@
 # Scope
-Paste the instructions for the project here.
+At one college, the tuition for a full-time student is $8,000 per semester. It has been announced that the tuition will increase by 3 percent each year for the next five years. Write a program with a loop that displays the projected semester tuition amount for the next five years.
 
-### Example Run
-    If there is an example of a successful program run
-    paste or type it here.
 
-    Copy/paste if there are more than one examples of output.
+### Sample Run
+
+    Year	 Projected Tuition (per Semester)
+    -----------------------------------------
+    1 	                $ 8240.00
+    2 	                $ 8487.20
+    3 	                $ 8741.82
+    4 	                $ 9004.07
+    5 	                $ 9274.19
 
 # Pseudocode
     START
