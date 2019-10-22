@@ -14,5 +14,14 @@ At one college, the tuition for a full-time student is $8,000 per semester. It h
 
 # Pseudocode
     START
-    Create algorithm for the program here.
+    Set increase multiplier constant to 1.03
+    Set tuition to 8,000
+    Print header string:
+        Year	 Projected Tuition (per Semester)
+    -----------------------------------------
+    FOR each year starting at 1 and ending at 5
+        Calculate the new tuition
+            tuition * increase multiplier
+        set tuition to the result
+        print current year and projected tuition
     END
